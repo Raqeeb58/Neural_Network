@@ -1,7 +1,9 @@
-🧠 Verilog-Based Multi-Layer Neural Network Inference Core
+Verilog-Based Multi-Layer Neural Network Inference Core
+
 This project implements a 4-layer feedforward neural network in Verilog, designed for hardware inference on FPGAs or ASICs. The network supports runtime loading of weights and biases, includes activation functions, and features a max-finder output module for classification tasks.
 
-🔧 Features
+Features
+
 4 Sequential Neural Layers: Modular design with parameterized neuron count and activation function.
 
 Runtime Configurability:
